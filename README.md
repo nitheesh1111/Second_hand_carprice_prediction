@@ -1,5 +1,4 @@
 # Second_hand_carprice_prediction
-# Second-Hand Car Price Prediction
 
 This project aims to predict the price of second-hand cars using machine learning techniques. By analyzing various features of cars such as brand, model, age, mileage, and other specifications, the model helps users get an estimate of a car’s market value.
 
